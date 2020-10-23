@@ -9,4 +9,5 @@
 !.vscode/extensions.json
 .history/*
 
-    
+# environment variable
+.env
